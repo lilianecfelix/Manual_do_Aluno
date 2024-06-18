@@ -1,0 +1,1 @@
+Este repositório armazena os arquivos que compõem o Manual do Alunos.
